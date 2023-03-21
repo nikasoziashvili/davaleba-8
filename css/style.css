@@ -1,0 +1,213 @@
+body {
+  width: 1920px;
+  height: 2301px;
+}
+
+.logo {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo p {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.logo span {
+  color: #6b77e5;
+}
+
+.nav-items {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.consulting {
+  font-weight: 600;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #6b77e5;
+  width: 184px;
+  height: 65px;
+  text-align: center;
+  padding-top: 20px;
+  font-family: font-family: 'Cabin', sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.nav-items li {
+  text-align: center;
+  padding: 15px;
+  margin-right: 50px;
+}
+
+.process h1 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+
+}
+
+.process p {
+  font-weight: 700;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+}
+
+.process {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.content p {
+  font-weight: 600;
+  font-size: 25px;
+  padding-top: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.content h1 {
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 20px;
+  color: #7d7d7d;
+  padding: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.content h2 {
+  font-weight: 600;
+  font-size: 18px;
+  color: #6b77e5;
+  padding-top: 50px;
+  font-family: "Inter", sans-serif;
+}
+
+.text1 {
+  background-color: #f4f4f4;
+  width: 386px;
+  height: 383px;
+  text-align: center;
+}
+
+.text2 {
+  background-color: #f4f4f4;
+  width: 386px;
+  height: 383px;
+  text-align: center;
+}
+
+.text3 {
+  background-color: #f4f4f4;
+  width: 386px;
+  height: 383px;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  padding: 0 300px;
+}
+
+.video h1 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #37393f;
+  font-family: "Inter", sans-serif;
+}
+
+.video p {
+  font-weight: 700;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.video h2 {
+  font-weight: 400;
+  font-size: 18px;
+  padding: 0 20%;
+  font-family: "Inter", sans-serif;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  left: 28%;
+  line-height: 50px;
+}
+
+.video {
+  position: relative;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title h1 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+
+.title p {
+  font-weight: 700;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.team p {
+  font-weight: 600;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.team h1 {
+  font-weight: 400;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+
+.team1 {
+  max-width: 100%;
+}
+
+.team-text {
+  position: absolute;
+  bottom: -1250px;
+  background-color: #ffffff;
+  text-align: center;
+  width: 341px;
+  height: 114px;
+  margin-left: 20px;
+  padding-top: 30px;
+}
+
+.team {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 300px;
+  margin-top: 40px;
+}
